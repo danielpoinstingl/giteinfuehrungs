@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Neu");
         System.out.println("Das gibt einen Konflikt");
         System.out.println("Neu1");
+        System.out.println("Konflikt");
         System.out.println("Konflikt2");
     }
 }
