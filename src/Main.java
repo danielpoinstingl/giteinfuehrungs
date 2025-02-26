@@ -5,5 +5,7 @@ public class Main {
 
         QuadratischeBasis qb=new QuadratischeBasis(3,10);
         System.out.println(qb.calcvolumen());
+
+        System.out.println("nice job!");
     }
 }
