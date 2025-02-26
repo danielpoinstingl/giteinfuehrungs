@@ -6,7 +6,6 @@ public class QuadratischeBasis extends Pyramide {
         super((float)Math.sqrt(triangleH * triangleH - (seite / 2.0) * (seite / 2.0)));
         this.seite = seite;
         this.triangleH = triangleH;
-
     }
 
 
